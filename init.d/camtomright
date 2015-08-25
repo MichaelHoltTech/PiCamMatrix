@@ -8,7 +8,7 @@
 # Description:       Top Left Camera
 ### END INIT INFO
 
-SCRIPT=/home/pi/topright.sh
+SCRIPT=/home/pi/PiCamMatrix/topright.sh
 RUNAS=root
 
 PIDFILE=/var/run/camtopright.pid
